@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_home"
+        android:title="Inicio"
+        android:icon="@drawable/ic_home"/>
+    <item
+        android:id="@+id/nav_suma"
+        android:title="Suma"
+        android:icon="@drawable/ic_suma"/>
+    <item
+        android:id="@+id/nav_resta"
+        android:title="Resta"
+        android:icon="@drawable/ic_resta"/>
+    <item
+        android:id="@+id/nav_multiplicacion"
+        android:title="Multiplicación"
+        android:icon="@drawable/ic_multiplicacion"/>
+    <item
+        android:id="@+id/nav_division"
+        android:title="División"
+        android:icon="@drawable/ic_division"/>
+</menu>
